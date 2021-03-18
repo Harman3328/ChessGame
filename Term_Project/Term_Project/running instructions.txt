@@ -1,0 +1,3 @@
+Running Instructions:
+java Main
+then follow the prompts
