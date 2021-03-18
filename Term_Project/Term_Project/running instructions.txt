@@ -1,3 +1,0 @@
-Running Instructions:
-In Terminal, to the direcotry the files are in and type java Main
-then follow the prompts
